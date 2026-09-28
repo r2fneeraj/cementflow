@@ -1,0 +1,6 @@
+{
+  "name": "CementFlow",
+  "description": "Operations, simplified. Professional cement truck loading and unloading operations management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
